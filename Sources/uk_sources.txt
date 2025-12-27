@@ -1,0 +1,11 @@
+# UK Official Sources
+
+This project uses only official UK government sources.
+
+## legislation.gov.uk
+- Operator: The National Archives (UK)
+- Scope: Acts of Parliament, Statutory Instruments, and amendments
+- Access Method: Public data feeds and structured endpoints
+- Legal Status: Official government publication
+
+Only metadata and summaries are processed. Full legal texts are not redistributed.
