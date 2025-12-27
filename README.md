@@ -1,4 +1,4 @@
-# Machine-Readable AI Legislation Feed (UK)
+# Machine Readable AI Legislation Feed (UK)
 
 This repository provides a machine-readable feed of UK legislation and regulatory signals relevant to artificial intelligence (AI).
 
