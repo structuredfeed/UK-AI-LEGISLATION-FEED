@@ -1,20 +1,65 @@
-{
-  "title": "Data (Use and Access) Act 2025",
-  "jurisdiction": "United Kingdom",
-  "document_type": "Public General Act",
-  "official_identifier": "UKPGA 2025 c.18",
-  "publication_date": "2025-06-20",
-  "last_updated": "2025-12-01",
-  "source": {
-    "publisher": "UK Legislation",
-    "url": "https://www.legislation.gov.uk/ukpga/2025/18"
+[
+  {
+    "title": "Data (Use and Access) Act 2025",
+    "jurisdiction": "United Kingdom",
+    "document_type": "Public General Act",
+    "official_identifier": "UKPGA 2025 c.18",
+    "publication_date": "2025-06-20",
+    "last_updated": "2025-12-01",
+    "source": {
+      "publisher": "UK Legislation",
+      "url": "https://www.legislation.gov.uk/ukpga/2025/18"
+    },
+    "summary": "An Act to make provision about access to customer data and business data; to regulate the processing and sharing of information relating to identifiable individuals; to establish the Information Commission; to make provision about privacy, electronic communications, copyright-protected works, and the development of artificial intelligence systems; and for connected purposes.",
+    "tags": [
+      "data governance",
+      "artificial intelligence",
+      "privacy",
+      "digital regulation",
+      "information access"
+    ]
   },
-  "summary": "An Act to make provision about access to customer data and business data; to regulate the processing and sharing of information relating to identifiable individuals; to establish the Information Commission; to make provision about privacy, electronic communications, copyright-protected works, and the development of artificial intelligence systems; and for connected purposes.",
-  "tags": [
-    "data governance",
-    "artificial intelligence",
-    "privacy",
-    "digital regulation",
-    "information access"
-  ]
-}
+  {
+    "title": "The National Security and Investment Act 2021 (Notifiable Acquisition) (Specification of Qualifying Entities) Regulations 2021",
+    "jurisdiction": "United Kingdom",
+    "document_type": "UnitedKingdomStatutoryInstrument",
+    "year": 2021,
+    "document_number": "1264",
+    "publication_date": "2021-11-16",
+    "last_updated": "2025-03-19",
+    "official_url": "http://www.legislation.gov.uk/id/uksi/2021/1264
+    ",
+    "source": "legislation.gov.uk",
+    "summary": "These Regulations specify descriptions of qualifying entities for the purposes of mandatory notification under the National Security and Investment Act 2021.",
+    "ai_relevance": "not specified",
+    "keywords": [
+      "national security",
+      "investment",
+      "mandatory notification",
+      "qualifying entities",
+      "statutory instrument"
+    ]
+  },
+  {
+    "title": "Directive (EU) 2019/1024 on open data and the re-use of public sector information",
+    "jurisdiction": "European Union",
+    "document_type": "EuropeanUnionDirective",
+    "year": 2019,
+    "document_number": "1024",
+    "publication_date": "2019-06-26",
+    "last_updated": "2023-09-22",
+    "official_url": "http://www.legislation.gov.uk/id/eudr/2019/1024
+    ",
+    "source": "legislation.gov.uk",
+    "summary": "Directive governing access to and re-use of public sector information across the European Union.",
+    "ai_relevance": "Establishes rules on access to and re-use of public sector data, which may be used as input for artificial intelligence systems.",
+    "keywords": [
+      "open data",
+      "public sector information",
+      "data re-use",
+      "European Union",
+      "directive"
+    ]
+  }
+]
+
