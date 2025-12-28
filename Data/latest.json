@@ -1,20 +1,15 @@
 {
-  "title": "Data (Use and Access) Act 2025",
-  "jurisdiction": "United Kingdom",
-  "document_type": "Public General Act",
-  "official_identifier": "UKPGA 2025 c.18",
-  "publication_date": "2025-06-20",
-  "last_updated": "2025-12-01",
-  "source": {
-    "publisher": "UK Legislation",
-    "url": "https://www.legislation.gov.uk/ukpga/2025/18"
-  },
-  "summary": "An Act to make provision about access to customer data and business data; to regulate the processing and sharing of information relating to identifiable individuals; to establish the Information Commission; to make provision about privacy, electronic communications, copyright-protected works, and the development of artificial intelligence systems; and for connected purposes.",
-  "tags": [
-    "data governance",
-    "artificial intelligence",
-    "privacy",
-    "digital regulation",
-    "information access"
-  ]
+  "title": "The Sheep Carcase (Classification and Price Reporting) (Scotland) Regulations 2025",
+  "jurisdiction": "Scotland",
+  "document_type": "ScottishStatutoryInstrument",
+  "year": 2025,
+  "publication_date": "2025-12-17",
+  "last_updated": "2025-12-18",
+  "source_agency": null,
+  "summary": "These Regulations mandate classification and price reporting of sheep carcases, including provisions that specifically regulate automated classification methods.",
+  "relevance_to_automation": "Includes provisions regulating the use of automated classification methods for sheep carcases.",
+  "relevance_to_ai": "Automated classification methods are referenced; relevance to artificial intelligence is not explicitly specified.",
+  "official_url": "http://www.legislation.gov.uk/ssi/2025/401/made",
+  "source": "legislation.gov.uk"
 }
+
