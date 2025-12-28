@@ -70,8 +70,7 @@
     "summary": "This Regulation governs the protection of natural persons with regard to the processing of personal data, including provisions on automated processing and automated decision-making.",
     "relevance_to_automation": "Includes provisions related to automated processing and automated decision-making involving personal data.",
     "relevance_to_ai": "Addresses automated processing and automated decision-making, which may include artificial intelligence systems that process personal data.",
-    "official_url": "http://www.legislation.gov.uk/eur/2016/679/2025-08-20
-    ",
+    "official_url": "http://www.legislation.gov.uk/eur/2016/679/2025-08-20",
     "source": "legislation.gov.uk"
   },
   {
@@ -85,8 +84,7 @@
     "summary": "These Regulations bring into force provisions of the Automated and Electric Vehicles Act 2018, including sections establishing a legal framework for identifying and regulating automated vehicles.",
     "relevance_to_automation": "Brings into force statutory provisions related to the identification and regulation of automated vehicles.",
     "relevance_to_ai": "Establishes a legal framework concerning automated vehicles; artificial intelligence relevance is not explicitly specified.",
-    "official_url": "http://www.legislation.gov.uk/uksi/2021/396/made
-    ",
+    "official_url": "http://www.legislation.gov.uk/uksi/2021/396/made",
     "source": "legislation.gov.uk"
   },
   {
@@ -100,8 +98,7 @@
     "summary": "These Regulations mandate classification and price reporting of sheep carcases, including provisions that specifically regulate automated classification methods.",
     "relevance_to_automation": "Includes provisions regulating the use of automated classification methods for sheep carcases.",
     "relevance_to_ai": "Automated classification methods are referenced; relevance to artificial intelligence is not explicitly specified.",
-    "official_url": "http://www.legislation.gov.uk/ssi/2025/401/made
-    ",
+    "official_url": "http://www.legislation.gov.uk/ssi/2025/401/made",
     "source": "legislation.gov.uk"
   },
   {
@@ -115,8 +112,7 @@
     "summary": "These Regulations require mandatory classification and price reporting of sheep carcases by approved slaughterhouses, including regulated classification systems.",
     "relevance_to_automation": "Regulated classification systems are referenced; automation is not explicitly specified.",
     "relevance_to_ai": "Artificial intelligence is not specified.",
-    "official_url": "http://www.legislation.gov.uk/uksi/2025/837/made
-    ",
+    "official_url": "http://www.legislation.gov.uk/uksi/2025/837/made",
     "source": "legislation.gov.uk"
   },
   {
@@ -130,8 +126,7 @@
     "summary": "These Regulations mandate classification and price reporting of sheep carcasses by larger slaughterhouses, including classification mechanisms.",
     "relevance_to_automation": "Classification mechanisms are referenced; automation is not explicitly specified.",
     "relevance_to_ai": "Artificial intelligence is not specified.",
-    "official_url": "http://www.legislation.gov.uk/wsi/2025/1121/made
-    ",
+    "official_url": "http://www.legislation.gov.uk/wsi/2025/1121/made",
     "source": "legislation.gov.uk"
   },
   {
@@ -145,8 +140,7 @@
     "summary": "This Regulation establishes administrative and market surveillance requirements for motor vehicles and related systems, including approval and compliance mechanisms.",
     "relevance_to_automation": "Automation is not explicitly specified.",
     "relevance_to_ai": "Artificial intelligence is not specified.",
-    "official_url": "http://www.legislation.gov.uk/eur/2020/683/2024-03-07
-    ",
+    "official_url": "http://www.legislation.gov.uk/eur/2020/683/2024-03-07",
     "source": "legislation.gov.uk"
   },
   {
@@ -160,11 +154,53 @@
     "summary": "This Regulation establishes ETIAS, an automated system for assessing travel authorisation applications and performing automated risk screening.",
     "relevance_to_automation": "Establishes an automated system for application assessment and automated risk screening.",
     "relevance_to_ai": "Artificial intelligence is not specified.",
-    "official_url": "http://www.legislation.gov.uk/eur/2018/1240/2019-06-11
-    ",
+    "official_url": "http://www.legislation.gov.uk/eur/2018/1240/2019-06-11",
     "source": "legislation.gov.uk"
   },
+  {
+    "title": "The Road Vehicles (Construction and Use) (Automated Vehicles) Order 2022",
+    "jurisdiction": "United Kingdom",
+    "document_type": "UnitedKingdomStatutoryInstrument",
+    "year": 2022,
+    "publication_date": "2022-04-25",
+    "last_updated": "2023-04-24",
+    "source_agency": null,
+    "summary": "This Order modifies vehicle construction and use rules to permit visual displays when a vehicle is operating in automated mode under the Automated and Electric Vehicles Act 2018.",
+    "relevance_to_automation": "Permits specific vehicle features when operating in automated mode under an automated vehicle legal framework.",
+    "relevance_to_ai": "Artificial intelligence is not specified.",
+    "official_url": "http://www.legislation.gov.uk/uksi/2022/470/made",
+    "source": "legislation.gov.uk"
+  },
+  {
+    "title": "Data Protection Act 2018",
+    "jurisdiction": "United Kingdom",
+    "document_type": "UnitedKingdomPublicGeneralAct",
+    "year": 2018,
+    "publication_date": "2019-08-19",
+    "last_updated": "2025-11-17",
+    "source_agency": null,
+    "summary": "This Act regulates the processing of personal data, including provisions governing automated decision-making and profiling.",
+    "relevance_to_automation": "Includes provisions governing automated decision-making and profiling in the context of personal data processing.",
+    "relevance_to_ai": "Addresses automated decision-making and profiling, which may involve artificial intelligence systems processing personal data.",
+    "official_url": "http://www.legislation.gov.uk/ukpga/2018/12/2025-11-17",
+    "source": "legislation.gov.uk"
+  },
+  {
+    "title": "The Automated Vehicles Act 2024 (Commencement No. 1) Regulations 2025",
+    "jurisdiction": "United Kingdom",
+    "document_type": "UnitedKingdomStatutoryInstrument",
+    "year": 2025,
+    "publication_date": "2025-12-18",
+    "last_updated": "2025-12-18",
+    "source_agency": null,
+    "summary": "These Regulations bring into force specified provisions of the Automated Vehicles Act 2024, establishing the legal framework for automated vehicles.",
+    "relevance_to_automation": "Brings into force statutory provisions establishing a legal framework for automated vehicles.",
+    "relevance_to_ai": "Artificial intelligence is not specified.",
+    "official_url": "http://www.legislation.gov.uk/uksi/2025/1339/made",
+    "source": "legislation.gov.uk"
+  }
 ]
+
 
 
 
