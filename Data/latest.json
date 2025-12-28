@@ -1,15 +1,16 @@
 {
-  "title": "The Sheep Carcase (Classification and Price Reporting) (Scotland) Regulations 2025",
-  "jurisdiction": "Scotland",
-  "document_type": "ScottishStatutoryInstrument",
+  "title": "The Automated Vehicles Act 2024 (Commencement No. 1) Regulations 2025",
+  "jurisdiction": "United Kingdom",
+  "document_type": "UnitedKingdomStatutoryInstrument",
   "year": 2025,
-  "publication_date": "2025-12-17",
+  "publication_date": "2025-12-18",
   "last_updated": "2025-12-18",
   "source_agency": null,
-  "summary": "These Regulations mandate classification and price reporting of sheep carcases, including provisions that specifically regulate automated classification methods.",
-  "relevance_to_automation": "Includes provisions regulating the use of automated classification methods for sheep carcases.",
-  "relevance_to_ai": "Automated classification methods are referenced; relevance to artificial intelligence is not explicitly specified.",
-  "official_url": "http://www.legislation.gov.uk/ssi/2025/401/made",
+  "summary": "These Regulations bring into force specified provisions of the Automated Vehicles Act 2024, establishing the legal framework for automated vehicles.",
+  "relevance_to_automation": "Brings into force statutory provisions establishing a legal framework for automated vehicles.",
+  "relevance_to_ai": "Artificial intelligence is not specified.",
+  "official_url": "http://www.legislation.gov.uk/uksi/2025/1339/made",
   "source": "legislation.gov.uk"
-}
+  }
+
 
