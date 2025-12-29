@@ -1,4 +1,4 @@
-## UK Official Sources
+# UK Official Sources
 
 This project uses only official UK government sources.
 
@@ -37,6 +37,7 @@ Competition and Markets Authority (CMA)
 Only metadata and summaries are processed. Full legal texts are not redistributed.
 
 All underlying source documents remain the property of their respective issuing authorities.
+
 
 
 
