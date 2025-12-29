@@ -17,6 +17,9 @@ Only AI-relevant items are included.
 - `data/latest.json` — the most recent UK AI-related legislative or regulatory item
 - `data/archive.json` — historical archive of all accepted items
 
+## Data Sources
+See `sources/uk_sources.md` for a full list of official sources.
+
 ## Versioning & Data Scope
 This repository follows a rolling release model.
 - Version identifiers (e.g. v1.0) represent a stable snapshot of all qualifying regulatory instruments available at the time of release.
