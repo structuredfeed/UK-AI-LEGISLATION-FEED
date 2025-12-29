@@ -27,6 +27,10 @@ Full legal texts are not redistributed.
 This repository does not provide legal advice.  
 All content is provided for informational purposes only.
 
+## Update Frequency
+Updates are performed automatically when new relevant regulatory signals are detected.
+If no qualifying updates are published, no changes are made.
+
 ## Intended Use
 This feed is intended for:
 - Regulatory monitoring
