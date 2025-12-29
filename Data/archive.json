@@ -366,51 +366,6 @@
     "source": "legislation.gov.uk"
   },
   {
-    "title": "XML\n\t\t\t\t (status: final, format: XML)",
-    "jurisdiction": "United Kingdom",
-    "document_type": "UnitedKingdomLegislation",
-    "year": null,
-    "publication_date": null,
-    "last_updated": "2025-11-28T00:00:00",
-    "source_agency": null,
-    "summary": null,
-    "relevance_to_digital": "No explicit reference to digital systems.",
-    "relevance_to_data": "No explicit reference to data governance.",
-    "relevance_to_ai": "Artificial intelligence is not explicitly referenced.",
-    "official_url": "http://www.legislation.gov.uk/ukpga/2025/18/ukpga_2025_18_kqpap_enacted.xml",
-    "source": "legislation.gov.uk"
-  },
-  {
-    "title": "English Explanatory Note\n\t\t\t\t (format: PDF)",
-    "jurisdiction": "United Kingdom",
-    "document_type": "UnitedKingdomLegislation",
-    "year": null,
-    "publication_date": null,
-    "last_updated": "2025-08-04T00:00:00",
-    "source_agency": null,
-    "summary": null,
-    "relevance_to_digital": "No explicit reference to digital systems.",
-    "relevance_to_data": "No explicit reference to data governance.",
-    "relevance_to_ai": "Artificial intelligence is not explicitly referenced.",
-    "official_url": "http://www.legislation.gov.uk/ukpga/2025/18/pdfs/ukpgaen_20250018_en.pdf",
-    "source": "legislation.gov.uk"
-  },
-  {
-    "title": "Document\n\t\t\t\t (format: PDF)",
-    "jurisdiction": "United Kingdom",
-    "document_type": "UnitedKingdomLegislation",
-    "year": null,
-    "publication_date": null,
-    "last_updated": "2025-06-23T00:00:00",
-    "source_agency": null,
-    "summary": null,
-    "relevance_to_digital": "No explicit reference to digital systems.",
-    "relevance_to_data": "No explicit reference to data governance.",
-    "relevance_to_ai": "Artificial intelligence is not explicitly referenced.",
-    "official_url": "http://www.legislation.gov.uk/ukpga/2025/18/pdfs/ukpga_20250018_en.pdf",
-    "source": "legislation.gov.uk"
-  },
-  {
     "title": null,
     "jurisdiction": "United Kingdom",
     "document_type": "WelshStatutoryInstrument",
@@ -711,6 +666,7 @@
     "source": "legislation.gov.uk"
   }
 ]
+
 
 
 
