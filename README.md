@@ -27,6 +27,21 @@ Full legal texts are not redistributed.
 This repository does not provide legal advice.  
 All content is provided for informational purposes only.
 
+## Compatibility Statement
+Public Domain content is fully compatible with the MIT License.
+Open Government Licence v3.0 and EU Open Data Licence are permissive and MIT-compatible when:
+Attribution is preserved
+No endorsement is implied
+This repository does not redistribute full copyrighted texts where restrictions apply.
+
+## Repository License
+This repository is licensed under the MIT License.
+The MIT License applies only to:
+Original code
+Original JSON structures
+Metadata schemas
+Generated prompts and classification logic
+
 ## Data Sources
 See `sources/uk_sources.md` for a full list of official sources.
 
