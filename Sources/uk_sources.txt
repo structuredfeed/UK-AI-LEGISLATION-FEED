@@ -1,46 +1,40 @@
-# UK Official Sources
+## UK Official Sources
 
 This project uses only official UK government sources.
 
-{
-  "jurisdiction": "United Kingdom",
-  "sources": [
-    {
-      "name": "UK Legislation",
-      "owner": "The National Archives",
-      "type": "Primary legislation and statutory instruments",
-      "access_method": "Official XML / RDF / CSV endpoints",
-      "base_url": "https://www.legislation.gov.uk",
-      "license": "Open Government Licence v3.0"
-    },
-    {
-      "name": "Department for Science, Innovation and Technology (DSIT)",
-      "owner": "UK Government",
-      "type": "Policy papers, consultations, guidance",
-      "access_method": "GOV.UK Content API",
-      "base_url": "https://www.gov.uk/api/content",
-      "license": "Open Government Licence v3.0"
-    },
-    {
-      "name": "Information Commissioner's Office (ICO)",
-      "owner": "Information Commissioner",
-      "type": "Regulatory updates and enforcement summaries",
-      "access_method": "Official RSS feeds",
-      "base_url": "https://ico.org.uk",
-      "license": "Open Government Licence v3.0"
-    },
-    {
-      "name": "Competition and Markets Authority (CMA)",
-      "owner": "UK Government",
-      "type": "Competition and digital market updates",
-      "access_method": "Official blog RSS feeds",
-      "base_url": "https://competitionandmarkets.blog.gov.uk",
-      "license": "Open Government Licence v3.0"
-    }
-  ]
-}
+The National Archives (UK)
+- Content Type: Acts of Parliament, Statutory Instruments, retained EU law
+- Access Method: Official XML, RDF, CSV, and HTML endpoints
+- Base URL: https://www.legislation.gov.uk
+- License: Open Government Licence v3.0
+- Notes: This is the authoritative source of UK law. All documents are retrieved in structured, machine-= readable formats provided by the publisher.
+
+Department for Science, Innovation and Technology (DSIT)
+- Publisher: UK Government
+- Content Type: Policy papers, guidance, consultations, digital and data strategy documents
+- Access Method: GOV.UK Content API
+- Base URL: https://www.gov.uk/api/content
+- License: Open Government Licence v3.0
+- Notes: Data is retrieved exactly as published via GOV.UK’s official content delivery system.
+
+Information Commissioner’s Office (ICO)
+- Publisher: Information Commissioner
+- Content Type: Regulatory updates, enforcement summaries, guidance announcements
+- Access Method: Official RSS feeds
+- Base URL: https://ico.org.uk
+- License: Open Government Licence v3.0
+- Notes: Only officially published summaries and metadata are used. Full enforcement decisions are not scraped or reproduced.
+
+Competition and Markets Authority (CMA)
+- Publisher: UK Government
+- Content Type: Competition policy updates, digital markets commentary, enforcement news
+- Access Method: Official GOV.UK blog RSS feeds
+- Base URL: https://competitionandmarkets.blog.gov.uk
+- License: Open Government Licence v3.0
+=Notes: Content is limited to publicly released blog updates and announcements.
 
 
 Only metadata and summaries are processed. Full legal texts are not redistributed.
+
 
 
