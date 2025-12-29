@@ -2,10 +2,44 @@
 
 This project uses only official UK government sources.
 
-## legislation.gov.uk
-- Operator: The National Archives (UK)
-- Scope: Acts of Parliament, Statutory Instruments, and amendments
-- Access Method: Public data feeds and structured endpoints
-- Legal Status: Official government publication
+{
+  "jurisdiction": "United Kingdom",
+  "sources": [
+    {
+      "name": "UK Legislation",
+      "owner": "The National Archives",
+      "type": "Primary legislation and statutory instruments",
+      "access_method": "Official XML / RDF / CSV endpoints",
+      "base_url": "https://www.legislation.gov.uk",
+      "license": "Open Government Licence v3.0"
+    },
+    {
+      "name": "Department for Science, Innovation and Technology (DSIT)",
+      "owner": "UK Government",
+      "type": "Policy papers, consultations, guidance",
+      "access_method": "GOV.UK Content API",
+      "base_url": "https://www.gov.uk/api/content",
+      "license": "Open Government Licence v3.0"
+    },
+    {
+      "name": "Information Commissioner's Office (ICO)",
+      "owner": "Information Commissioner",
+      "type": "Regulatory updates and enforcement summaries",
+      "access_method": "Official RSS feeds",
+      "base_url": "https://ico.org.uk",
+      "license": "Open Government Licence v3.0"
+    },
+    {
+      "name": "Competition and Markets Authority (CMA)",
+      "owner": "UK Government",
+      "type": "Competition and digital market updates",
+      "access_method": "Official blog RSS feeds",
+      "base_url": "https://competitionandmarkets.blog.gov.uk",
+      "license": "Open Government Licence v3.0"
+    }
+  ]
+}
+
 
 Only metadata and summaries are processed. Full legal texts are not redistributed.
+
