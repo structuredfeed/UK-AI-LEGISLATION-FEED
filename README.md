@@ -40,7 +40,7 @@ This dataset includes:
 - Flags may include false positives where legislation references automation, systems, or electronic processes without explicitly regulating artificial intelligence.
 - These indicators are informational only and do not constitute legal interpretation.
 
-Jurisdictional Integrity
+## Jurisdictional Integrity
 - Each repository is jurisdiction-specific.
 - Cross-jurisdictional instruments are indexed only where they are officially incorporated or retained within the relevant legal framework.
 
