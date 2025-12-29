@@ -17,6 +17,33 @@ Only AI-relevant items are included.
 - `data/latest.json` — the most recent UK AI-related legislative or regulatory item
 - `data/archive.json` — historical archive of all accepted items
 
+## Versioning & Data Scope
+This repository follows a rolling release model.
+- Version identifiers (e.g. v1.0) represent a stable snapshot of all qualifying regulatory instruments available at the time of release.
+- The latest.json file points to the most recently published qualifying instrument at build time.
+- The archive/ directory contains all previously indexed instruments preserved immutably.
+
+## Inclusion Criteria
+This dataset includes:
+- Primary legislation (Acts)
+- Secondary legislation (e.g. Regulations, Statutory Instruments)
+- Official amendments and commencement instruments where applicable
+- Devolved or federal equivalents where within scope (e.g. Welsh Statutory Instruments)
+
+## Metadata Completeness
+- Some official sources publish legislation with partial metadata (e.g. missing titles or summaries at time of publication).
+- Such records are included unaltered to preserve fidelity with the authoritative source.
+- Metadata completeness may improve in later versions without altering historical records.
+
+## AI, Data, and Digital Relevance Flags
+- Relevance indicators are generated using conservative classification rules.
+- Flags may include false positives where legislation references automation, systems, or electronic processes without explicitly regulating artificial intelligence.
+- These indicators are informational only and do not constitute legal interpretation.
+
+Jurisdictional Integrity
+- Each repository is jurisdiction-specific.
+- Cross-jurisdictional instruments are indexed only where they are officially incorporated or retained within the relevant legal framework.
+
 ## Methodology
 Items are sourced exclusively from official UK government publications.  
 Only titles, publication dates, issuing bodies, short summaries, and source URLs are stored.
