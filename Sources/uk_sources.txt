@@ -30,12 +30,13 @@ Competition and Markets Authority (CMA)
 - Access Method: Official GOV.UK blog RSS feeds
 - Base URL: https://competitionandmarkets.blog.gov.uk
 - License: Open Government Licence v3.0
-=Notes: Content is limited to publicly released blog updates and announcements.
+= Notes: Content is limited to publicly released blog updates and announcements.
 
 
 Only metadata and summaries are processed. Full legal texts are not redistributed.
 
 All underlying source documents remain the property of their respective issuing authorities.
+
 
 
 
