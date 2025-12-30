@@ -76,11 +76,16 @@ This repository aggregates metadata derived from official public-sector sources.
 - UK sources: © Crown copyright, licensed under the Open Government Licence (OGL v3.0)
 
 Public Domain content is fully compatible with the MIT License.
+
 Open Government Licence v3.0 and EU Open Data Licence are permissive and MIT-compatible when:
-Attribution is preserved
-No endorsement is implied
+- Attribution is preserved
+- No endorsement is implied
 This repository does not redistribute full copyrighted texts where restrictions apply.
 
+This repository:
+- Does not redistribute full legislative text where restricted.
+- Provides metadata, summaries, and links only.
+- Is compatible with MIT / Apache-2.0 / CC-BY-4.0 downstream use.
 
 ## Repository License
 This repository is licensed under the MIT License.
