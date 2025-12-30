@@ -1,0 +1,36 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "RegulatoryEntry",
+  "type": "object",
+  "required": [
+    "title",
+    "jurisdiction",
+    "document_type",
+    "year",
+    "publication_date",
+    "last_updated",
+    "source_agency",
+    "summary",
+    "relevance_to_digital",
+    "relevance_to_data",
+    "relevance_to_ai",
+    "official_url",
+    "source"
+  ],
+  "properties": {
+    "title": { "type": ["string", "null"] },
+    "jurisdiction": { "type": "string" },
+    "document_type": { "type": "string" },
+    "year": { "type": ["integer", "null"] },
+    "publication_date": { "type": ["string", "null"], "format": "date-time" },
+    "last_updated": { "type": ["string", "null"], "format": "date-time" },
+    "source_agency": { "type": ["string", "null"] },
+    "summary": { "type": ["string", "null"] },
+    "relevance_to_digital": { "type": "string" },
+    "relevance_to_data": { "type": "string" },
+    "relevance_to_ai": { "type": "string" },
+    "official_url": { "type": "string", "format": "uri" },
+    "source": { "type": "string" }
+  },
+  "additionalProperties": false
+}
