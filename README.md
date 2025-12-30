@@ -72,6 +72,8 @@ This feed is intended for:
 Users are responsible for determining how the information is used within their own compliance or decision-making processes.
 
 ## Compatibility Statement
+This repository aggregates metadata derived from official public-sector sources.
+- UK sources: © Crown copyright, licensed under the Open Government Licence (OGL v3.0)
 Public Domain content is fully compatible with the MIT License.
 Open Government Licence v3.0 and EU Open Data Licence are permissive and MIT-compatible when:
 Attribution is preserved
