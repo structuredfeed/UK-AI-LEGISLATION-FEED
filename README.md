@@ -93,6 +93,3 @@ This feed is provided "as is" without warranties of any kind.
 No liability is assumed for errors, omissions, or interpretations.
 Users should consult qualified legal professionals for regulatory or compliance advice.
 
-## Data Sources
-See `sources/uk_sources.md` for a full list of official sources.
-
