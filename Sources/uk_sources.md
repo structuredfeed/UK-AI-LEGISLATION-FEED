@@ -32,10 +32,16 @@ Competition and Markets Authority (CMA)
 - License: Open Government Licence v3.0
 = Notes: Content is limited to publicly released blog updates and announcements.
 
+Legal & Compliance Statement
+- No scraping or automated extraction of restricted content is performed.
+- All data is obtained from official government sources.
+- Content is used in accordance with the stated licenses.
+- Where full documents are not available via APIs, only metadata and summaries are included.
 
-Only metadata and summaries are processed. Full legal texts are not redistributed.
+Only official summaries, abstracts, and metadata are used. Full legal texts, standards documents, and PDFs are not republished.
 
 All underlying source documents remain the property of their respective issuing authorities.
+
 
 
 
