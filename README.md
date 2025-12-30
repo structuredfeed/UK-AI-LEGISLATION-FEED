@@ -85,6 +85,8 @@ This repository:
 - Provides metadata, summaries, and links only.
 - Is compatible with MIT / Apache-2.0 / CC-BY-4.0 downstream use.
 
+Users are resposible for verifying dwnstream reuse requirments of linked source material.
+
 ## Repository License
 This repository is licensed under the MIT License.
 The MIT License applies only to:
@@ -94,7 +96,7 @@ The MIT License applies only to:
 - Generated prompts and classification logic
 
 This repository provides a licensed structured representation of public information.
-The underlying regulatory texts are public records governed by their respective jurisdictions.
+The underlying legislative texts are public records governed by their respective jurisdictions.
 
 ## Disclaimer
 This feed is provided "as is" without warranties of any kind.
