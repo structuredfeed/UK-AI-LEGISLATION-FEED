@@ -85,7 +85,7 @@ This repository:
 - Provides metadata, summaries, and links only.
 - Is compatible with MIT / Apache-2.0 / CC-BY-4.0 downstream use.
 
-Users are resposible for verifying dwnstream reuse requirments of linked source material.
+Users are responsible for verifying dwnstream reuse requirments of linked source material.
 
 ## Repository License
 This repository is licensed under the MIT License.
