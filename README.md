@@ -20,6 +20,14 @@ Only AI-relevant items are included.
 ## Data Sources
 See `sources/uk_sources.md` for a full list of official sources.
 
+## Schema Governance
+
+This repository uses a locked metadata schema.
+The schema is frozen as of v1.0 and governed by the Schema Lock Declaration.
+
+See: `SCHEMA_LOCK.md`
+
+
 ## Versioning & Data Scope
 This repository follows a rolling release model.
 - Version identifiers (e.g. v1.0) represent a stable snapshot of all qualifying regulatory instruments available at the time of release.
