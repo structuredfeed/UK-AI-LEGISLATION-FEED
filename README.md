@@ -5,6 +5,12 @@ This repository provides a machine-readable feed of UK legislation and regulator
 ## Purpose
 The goal of this project is to make it easier for developers, researchers, and organizations to monitor official UK legal and regulatory developments related to AI in a structured, automated way.
 
+## Product Packaging
+
+This repository represents a jurisdiction-specific SKU within a multi-region AI regulatory dataset.
+
+Each SKU conforms to the same locked schema and governance model, enabling seamless combination across regions.
+
 ## Scope
 This repository includes:
 - Acts of Parliament
