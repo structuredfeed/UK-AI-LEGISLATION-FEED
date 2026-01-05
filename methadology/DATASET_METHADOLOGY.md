@@ -1,4 +1,4 @@
-# Methodology
+# Methadology
 
 ## Overview
 This project provides structured regulatory intelligence by aggregating metadata from official public-sector sources related to artificial intelligence, digital systems, and data governance.
