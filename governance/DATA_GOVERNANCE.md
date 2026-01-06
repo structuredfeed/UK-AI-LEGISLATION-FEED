@@ -12,6 +12,25 @@ This policy applies to:
 - All data added to `latest.json` and `archive.json`
 - All jurisdictions covered by this repository
 
+## Principles
+- Accuracy
+- Source fidelity
+- Immutability of historical records
+- Conservative classification
+
+## Source Control
+- Only official government sources are permitted
+- No scraping
+- No unofficial mirrors
+
+## Data Integrity
+- Records are immutable once archived
+- Corrections result in new entries, not overwrites
+
+## Auditability
+- Each record links to its authoritative source
+- Versioned releases provide point-in-time snapshots
+
 ## Authoritative Sources Only
 Only data derived from official public-sector sources may be included.
 
