@@ -40,6 +40,10 @@ Before any release is tagged, all checks in the Release Validation Checklist mus
 - False positives are documented
 - No record is removed solely due to uncertainty
 
+## Versioning
+- Semantic versioning (v1.0, v1.1, v2.0)
+- v1.0 represents schema freeze
+
 ## Versioning Rules
 - Major versions (e.g. v1.0) represent frozen snapshots
 - Schema changes require a major version increment
@@ -60,9 +64,16 @@ Each release must include:
 - A declared schema version
 - A release date
 - A frozen status indicator
+- Git tag applied at repository root
+- CHANGELOG updated
 
 ## Post-Release Handling
 After release:
 - latest.json may move forward in future versions
 - archive.json remains preserved
 - Prior versions remain accessible indefinitely
+
+## Release Conditions
+- Validation checklist must pass
+- Schema lock must not be violated
+- Sources must be verified
