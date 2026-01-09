@@ -91,4 +91,4 @@ This schema lock is effective as of:
 
 Release: v1.0
 
-Date: 03rd January 2026
+Date: 09th January 2026
